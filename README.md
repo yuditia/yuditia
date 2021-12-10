@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/data enginer
 - 🌱 I’m currently learning R, Python, SQL
 - 💞️ I’m looking to collaborate on Data Scien or Data Analys
-- 📫 you can contact me on wa (083114028633) or ig:@yuditraditya
+- 📫 this my portofolio <a href="https://yuditia.github.io/></a>
 
 <!---
 yuditia/yuditia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
