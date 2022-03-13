@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuditia
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently Laravel, Api
+- 🌱 I’m currently learn Laravel & Api
 - 💞️ I’m looking to collaborate on Make a Website
 - 📫 this my portofolio https://yuditia.github.io/
 
