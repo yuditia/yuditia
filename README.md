@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuditia
-- 👀 I’m interested in Data Science/data enginer
-- 🌱 I’m currently learning R, Python, SQL
-- 💞️ I’m looking to collaborate on Data Scien or Data Analys
+- 👀 I’m interested in Backend Developer
+- 🌱 I’m currently Laravel, Api
+- 💞️ I’m looking to collaborate on Make a Website
 - 📫 this my portofolio https://yuditia.github.io/
 
 <!---
