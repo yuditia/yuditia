@@ -1,6 +1,6 @@
 # Hi there, I'm Yuditia - aka [Yudit][instagram] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter] [![Github Folow](https://img.shields.io/badge/-Github-lightgrey)][github] [![Instagram Folow](https://img.shields.io/badge/IG-Instagram-red)][instagram]
+[![Twitter Follow](https://img.shields.io/twitter/follow/yudit?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter] [![Github Folow](https://img.shields.io/badge/-Github-lightgrey)][github] [![Instagram Folow](https://img.shields.io/badge/IG-Instagram-red)][instagram]
 
 ## I'm a Human, Man, and Developer !!
 
